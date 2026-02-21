@@ -2,6 +2,8 @@
 
 A simple web-based Expense Tracker that allows users to add, edit, delete, and track their expenses. The application uses local storage to persist data.
 
+[Video Preview](https://www.linkedin.com/posts/kishen-s_webdevelopment-javascript-opensource-activity-7294769494319640576-_SWd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQ_6lMBkJJLh1LDJXoL4_oVmfs2Bk0Tb7Y)
+
 ## Features
 - Add new expenses with name and amount.
 - Display a list of added expenses.
