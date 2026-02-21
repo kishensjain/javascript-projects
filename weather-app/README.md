@@ -2,6 +2,8 @@
 
 A simple weather app that fetches real-time weather data using OpenWeather API.
 
+[Preview](https://www.linkedin.com/posts/kishen-s_webdevelopment-javascript-weatherapp-activity-7293663348129189888-o1O9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQ_6lMBkJJLh1LDJXoL4_oVmfs2Bk0Tb7Y)
+
 ## Features
 - Search weather by city name
 - Displays temperature and weather conditions
